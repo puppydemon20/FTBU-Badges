@@ -1,0 +1,18 @@
+{
+	"players":
+	{
+		"6cf4e699021a46d6a796816306cecd77": "water",
+		" dc9ca5fce2d9497da79eab336afb3768": "fire"
+
+	},
+	
+	"badges":
+	{
+		"latmod": "http://latvianmodder.github.io/images/badges/latmod.png",
+		"ftb": "http://latvianmodder.github.io/images/badges/ftb.png",
+		"fire": "https://raw.githubusercontent.com/puppydemon20/FTBU-Badges/master/Fire.png",
+		"water": "https://raw.githubusercontent.com/puppydemon20/FTBU-Badges/master/Water.png",
+		"nature": "https://raw.githubusercontent.com/puppydemon20/FTBU-Badges/master/Nature.png",
+		"wind": "https://raw.githubusercontent.com/puppydemon20/FTBU-Badges/master/Wind.png"
+	}
+}
